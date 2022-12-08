@@ -1,6 +1,6 @@
 {
   "largeCardUrl": "https://www.fifarosters.com/assets/cards/fifa23/cards_bg_e_{cardId}.png",
-  "smallCardUrl": "https://futhead.cursecdn.com/static/img/22/cards/small/{cardId}.png",
+  "smallCardUrl": "https://www.fifarosters.com/assets/cards/fifa23/cards_bg_s_{cardId}.png",
   "cards": [
     "1_18_1",
     "1_18_2",
