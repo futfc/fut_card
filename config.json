@@ -4,5 +4,5 @@
   "cardUrl":  "https://static.wefut.com/assets/images/fut23/{cardId}.png",
   "clubUrl": "https://static.wefut.com/assets/images/fut23/clubbadges/{clubId}.png",
   "leagueUrl": "https://static.wefut.com/assets/images/fut23/leaguebadges/{leagueId}.png",
-  "smallCardUrl": "http://cdn.jsdelivr.net/gh/futfc/fut_card@latest/cards/{cardId}.png"
+  "smallCardUrl": "https://raw.githubusercontent.com/futfc/fut_card/main/cards/{cardId}.png"
 }
