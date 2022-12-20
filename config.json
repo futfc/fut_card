@@ -4,5 +4,6 @@
   "cardUrl":  "https://static.wefut.com/assets/images/fut23/{cardId}.png",
   "clubUrl": "https://static.wefut.com/assets/images/fut23/clubbadges/{clubId}.png",
   "leagueUrl": "https://static.wefut.com/assets/images/fut23/leaguebadges/{leagueId}.png",
-  "smallCardUrl": "https://raw.githubusercontent.com/futfc/fut_card/main/cards/{cardId}.png"
+  "smallCardUrl": "https://raw.githubusercontent.com/futfc/fut_card/main/cards/{cardId}.png",
+  "dbUrl": "https://app.futchemistry.com/assets/assets/data/db_12_20.csv"
 }
