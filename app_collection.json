@@ -3,13 +3,13 @@
     {
       "app_name": "FUT Chemistry",
       "description": "Optimize FUT Squad Chemistry within 30s",
-      "icon": "http://192.168.1.15:8080/app/fut_chem.png",
+      "icon": "https://futfc.github.io/fut_card/app/fut_chem.png",
       "store_link": ""
     },
     {
       "app_name": "FUT Card Creator",
       "description": "Create FUT Card with auto remove background",
-      "icon": "http://192.168.1.15:8080/app/fut_chem.png",
+      "icon": "https://futfc.github.io/fut_card/app/fut_chem.png",
       "store_link": ""
     }
   ]
