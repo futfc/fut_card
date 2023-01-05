@@ -4,7 +4,7 @@
       "app_name": "FUT Chemistry",
       "app_id": "fut_chemistry",
       "description": "Optimize FUT Squad Chemistry within 30s",
-      "icon": "http://192.168.1.15:8080/app/fut_chem.png",
+      "icon": "https://futfc.github.io/fut_card/app/fut_chem.png",
       "android_store_link": "https://play.google.com/store/apps/details?id=com.futchemistry.app",
       "ios_store_link": "https://play.google.com/store/apps/details?id=com.futchemistry.app"
     },
@@ -12,7 +12,7 @@
       "app_name": "FUT Card Creator",
       "app_id": "fut_card",
       "description": "Create FUT Card with auto remove background",
-      "icon": "http://192.168.1.15:8080/app/fut_chem.png",
+      "icon": "https://futfc.github.io/fut_card/app/fut_chem.png",
       "android_store_link": "https://play.google.com/store/apps/details?id=com.futchemistry.app",
       "ios_store_link": "https://play.google.com/store/apps/details?id=com.futchemistry.app"
     }
