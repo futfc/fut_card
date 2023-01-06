@@ -6,6 +6,7 @@
       "description": "Optimize FUT Squad Chemistry within 30s",
       "icon": "https://futfc.github.io/fut_card/app/fut_chem.png",
       "android_store_link": "https://play.google.com/store/apps/details?id=com.futchemistry.app",
+      "store_link": "https://play.google.com/store/apps/details?id=com.futchemistry.app",
       "ios_store_link": "https://apps.apple.com/us/app/fut-chemistry-booster/id1659694392"
     },
     {
@@ -14,6 +15,7 @@
       "description": "Create FUT Card with auto remove background",
       "icon": "https://futfc.github.io/fut_card/app/fut_card.png",
       "android_store_link": "https://play.google.com/store/apps/details?id=com.futfc.futcard3d",
+      "store_link": "https://play.google.com/store/apps/details?id=com.futfc.futcard3d",
       "ios_store_link": "https://apps.apple.com/us/app/fut-card-3d/id1663029099"
     }
   ]
