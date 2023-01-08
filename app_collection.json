@@ -1,7 +1,7 @@
 {
   "fut_collection": [
     {
-      "app_name": "FUT Chemistry",
+      "app_name": "[AD] FUT Chemistry",
       "app_id": "fut_chemistry",
       "description": "Optimize FUT Squad Chemistry within 30s",
       "icon": "https://futfc.github.io/fut_card/app/fut_chem.png",
@@ -10,7 +10,7 @@
       "ios_store_link": "https://apps.apple.com/us/app/fut-chemistry-booster/id1659694392"
     },
     {
-      "app_name": "FUT Card Creator",
+      "app_name": "[AD] FUT Card Creator",
       "app_id": "fut_card",
       "description": "Create FUT Card with auto remove background",
       "icon": "https://futfc.github.io/fut_card/app/fut_card.png",
