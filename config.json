@@ -5,5 +5,5 @@
   "clubUrl": "https://static.wefut.com/assets/images/fut23/clubbadges/{clubId}.png",
   "leagueUrl": "https://static.wefut.com/assets/images/fut23/leaguebadges/{leagueId}.png",
   "smallCardUrl": "https://futfc.github.io/fut_card/cards/cards_bg_s_{cardId}.png",
-  "dbUrl": "https://futfc.github.io/fut_card/db/db_1_27_1.csv"
+  "dbUrl": "https://futfc.github.io/fut_card/db/db_1_30_1.csv"
 }
