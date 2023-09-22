@@ -1,0 +1,10 @@
+{
+  "playerUrl": "https://cdn.easysbc.io/fc24/players/{playerId}.png",
+  "nationUrl": "https://cdn.easysbc.io/fc24/countries/{nationId}.png",
+  "cardUrl": "https://www.fifarosters.com/assets/cards/fifa23/cards_bg_e_{cardId}.png",
+  "clubUrl": "https://cdn.easysbc.io/fc24/clubs/{clubId}.png",
+  "leagueUrl": "https://cdn.easysbc.io/fc24/leagues/{leagueId}.png",
+  "smallCardUrl": "https://futfc.github.io/fut_card/cards/cards_bg_s_{cardId}.png",
+  "dbUrl": "https://futfc.github.io/fut_card/db_24/23_09_21.csv",
+  "showLogo": true
+}
