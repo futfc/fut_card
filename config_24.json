@@ -6,5 +6,5 @@
   "leagueUrl": "https://cdn.easysbc.io/fc24/leagues/{leagueId}.png",
   "smallCardUrl": "https://futfc.github.io/fut_card/cards/cards_bg_s_{cardId}.png",
   "dbUrl": "https://futfc.github.io/fut_card/db_24/23_09_21.csv",
-  "showLogo": false
+  "showLogo": true
 }
