@@ -4562,6 +4562,47 @@
       "hide": false,
       "embargoTime": 1558566000,
       "guid": "7535d322-3347-4123-a800-cf93bcd5d786"
+    },
+    {
+      "colors": [
+        5260331,
+        16382457,
+        16776692
+      ],
+      "lgColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        1
+      ],
+      "smColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        1
+      ],
+      "untradable": false,
+      "version": 10,
+      "id": 2431,
+      "fc24": true,
+      "name": "%Y²[V5\u001eqÉr¦çÅæ",
+      "levels": false,
+      "colorsPerLevel": 1,
+      "shell": 1,
+      "bigHead": false,
+      "hide": false,
+      "embargoTime": 1558566000,
+      "guid": "7535d322-3347-4123-a800-cf93bcd5d786"
     }
   ],
   "backgrounds": [
@@ -4603,6 +4644,13 @@
     "bg_37",
     "bg_38",
     "bg_39",
-    "bg_40"
+    "bg_40",
+    "bg_42",
+    "bg_43",
+    "bg_44",
+    "bg_45",
+    "bg_46",
+    "bg_47",
+    "bg_41"
   ]
 }
