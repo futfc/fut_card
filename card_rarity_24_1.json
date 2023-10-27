@@ -5013,9 +5013,50 @@
       "hide": false,
       "embargoTime": 1558566000,
       "guid": "7535d322-3347-4123-a800-cf93bcd5d786"
+    },
+    {
+      "colors": [
+        5260331,
+        16382457,
+        10324311
+      ],
+      "lgColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        1
+      ],
+      "smColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        1
+      ],
+      "untradable": false,
+      "version": 9,
+      "id": 24992,
+      "name": "oä\u0013Yo",
+      "levels": false,
+      "fc24": true,
+      "shell": 2,
+      "bigHead": false,
+      "hide": false,
+      "embargoTime": 1558566000,
+      "guid": "26a75c17-3c46-4bc8-ae53-42e8c60efd92"
     }
   ],
   "backgrounds": [
+    "bg_52",
     "bg_51",
     "bg_48",
     "bg_1",
