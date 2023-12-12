@@ -5627,9 +5627,135 @@
       "hide": false,
       "embargoTime": 1558566000,
       "guid": "7535d322-3347-4123-a800-cf93bcd5d786"
+    },
+    {
+      "colors": [
+        5260331,
+        16382457,
+        16775390
+      ],
+      "lgColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        1
+      ],
+      "smColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        1
+      ],
+      "untradable": false,
+      "version": 10,
+      "id": 24885,
+      "fc24": true,
+      "name": "%Y²[V5\u001eqÉr¦çÅæ",
+      "levels": false,
+      "colorsPerLevel": 1,
+      "shell": 1,
+      "bigHead": false,
+      "hide": false,
+      "embargoTime": 1558566000,
+      "guid": "7535d322-3347-4123-a800-cf93bcd5d786"
+    },
+    {
+      "colors": [
+        5260331,
+        16382457,
+        16775390
+      ],
+      "lgColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        1
+      ],
+      "smColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        1
+      ],
+      "untradable": false,
+      "version": 10,
+      "id": 24886,
+      "fc24": true,
+      "name": "%Y²[V5\u001eqÉr¦çÅæ",
+      "levels": false,
+      "colorsPerLevel": 1,
+      "shell": 1,
+      "bigHead": false,
+      "hide": false,
+      "embargoTime": 1558566000,
+      "guid": "7535d322-3347-4123-a800-cf93bcd5d786"
+    },
+    {
+      "colors": [
+        5260331,
+        16382457,
+        5589297
+      ],
+      "lgColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        1
+      ],
+      "smColorIndices": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        1
+      ],
+      "untradable": false,
+      "version": 10,
+      "id": 24887,
+      "fc24": true,
+      "name": "%Y²[V5\u001eqÉr¦çÅæ",
+      "levels": false,
+      "colorsPerLevel": 1,
+      "shell": 1,
+      "bigHead": false,
+      "hide": false,
+      "embargoTime": 1558566000,
+      "guid": "7535d322-3347-4123-a800-cf93bcd5d786"
     }
   ],
   "backgrounds": [
+    "bg_65",
+    "bg_66",
+    "bg_67",
     "bg_64",
     "bg_63",
     "bg_62",
